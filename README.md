@@ -14,6 +14,7 @@ How to use this repository:
     git clone https://github.com/TECHCareers-by-Manpower/how-to-write-effective-documentation-jia-von.git
 
 Within file explorer:
+
 -Open folder Lambda_Assignment
 -Open project Lambda_Assignment.sln in Visual Studio 2019.
 
