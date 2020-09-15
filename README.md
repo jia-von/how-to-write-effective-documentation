@@ -16,7 +16,6 @@ How to use this repository:
 Within file explorer:
 
 1. Open folder Lambda_Assignment
-
 2. Open project Lambda_Assignment.sln in Visual Studio 2019.
 
 
