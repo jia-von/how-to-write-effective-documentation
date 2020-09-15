@@ -1,9 +1,11 @@
-$project
+Lambda Expression(C# reference)
 ========
+This repository will introduce the user to the concept of Lambda Expression using Anonymous function expressions in C#.
+Additionally this repository covers the various segments of the expression. 
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
 
+How to use this repository:
+--------
 Look how easy it is to use:
 
     import project
@@ -34,6 +36,11 @@ Support
 
 If you are having issues, please let us know.
 We have a mailing list located at: project@google-groups.com
+
+References
+-------
+
+Insert references here
 
 License
 -------
