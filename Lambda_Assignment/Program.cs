@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Lambda_Assisngment
+namespace Lambda_Assignment
 {
     class Program
     {
