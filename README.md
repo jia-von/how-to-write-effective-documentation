@@ -3,6 +3,9 @@ Lambda Expression Assignment(C# reference)
 This repository will introduce the user to the concept of Lambda Expression using Anonymous function expressions in C#.
 Additionally, the various segments of the expression will be covered in this assignment. 
 
+Tutorial
+--------
+Tutorial for this assignment is accessible through this link: https://docs.google.com/document/d/1BJUNUUknTwbl_AMzMKOBwxq42kDVfilccd-zPyzevkU/edit?usp=sharing
 
 How to use this repository:
 --------
