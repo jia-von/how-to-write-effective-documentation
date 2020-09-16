@@ -25,13 +25,6 @@ Features
 - Be awesome
 - Make things faster
 
-Installation
-------------
-
-Install  by running:
-
-    install project
-
 Contribute
 ----------
 
