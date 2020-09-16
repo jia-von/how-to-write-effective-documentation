@@ -9,23 +9,23 @@ namespace Lambda_Assignment
         {
             // Example 1 (Microsoft, 2015a): 
             // Initialization of an anonymous method with the use of delegate.
-            // Invoke the delegate testDelB.
             TestDelegate testDelB = delegate (string s) { Console.WriteLine(s); };
-            testDelB("Print testDelB");
+            
 
             // Example 2 (Microsoft, 2015a): 
             // Initialization of an anonymous method with the use of an lambda expression.
-            // Invoke the delegate testDelC
             TestDelegate testDelC = (x) => { Console.WriteLine(x); };
-            testDelC("Print testDelC");
+            
 
             // Example 3:
             // Step 2: Initialize Anonymous function()
-            // Step 3: Invoke the delegate 
             Example3 test = (x, y) => x + y;
+            
+
+            //Invoke the delegates
+            testDelB("Print testDelB");
+            testDelC("Print testDelC");
             Console.WriteLine(test(5, 5));
-
-
         }
 
         // Example 1: Declaration of method with a string parameter s
