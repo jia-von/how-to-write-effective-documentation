@@ -23,6 +23,7 @@ Within file explorer:
 
 ![Step 2: ](https://raw.githubusercontent.com/TECHCareers-by-Manpower/how-to-write-effective-documentation-jia-von/master/Images/Step2.PNG?token=AP5K43D34HCMHN2L7N3KR2C7MF4US)
 
+3. Open Lambda_Assignment.sln within Visual Studio 2019.
 
 Contribute
 ----------
