@@ -17,11 +17,11 @@ Within file explorer:
 
 1. Open folder Lambda_Assignment
 
-![Step 1: ](https://raw.githubusercontent.com/TECHCareers-by-Manpower/how-to-write-effective-documentation-jia-von/master/Images/Step1.PNG?token=AP5K43EOJC4GOMBQHAMTVQC7MF4Q2)
+![Step 1: ](https://github.com/TECHCareers-by-Manpower/how-to-write-effective-documentation-jia-von/blob/master/Images/Step1.PNG)
 
 2. Open project Lambda_Assignment.sln in Visual Studio 2019.
 
-![Step 2: ](\Images\Step2.PNG)
+![Step 2: ](https://github.com/TECHCareers-by-Manpower/how-to-write-effective-documentation-jia-von/blob/master/Images/Step2.PNG)
 
 3. Open Lambda_Assignment.sln within Visual Studio 2019.
 
