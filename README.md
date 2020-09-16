@@ -19,12 +19,6 @@ Within file explorer:
 2. Open project Lambda_Assignment.sln in Visual Studio 2019.
 
 
-Features
---------
-
-- Be awesome
-- Make things faster
-
 Contribute
 ----------
 
@@ -38,7 +32,17 @@ If you are having issues, please email at jiavon@ualberta.ca
 References
 -------
 
-Lambda expressions (C#). 2019a. URL: https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions
+TutorialsTeacher. 2020a. C# - Anonymous Method. URL: https://www.tutorialsteacher.com/csharp/csharp-anonymous-method
+
+TutorialsTeacher. 2020b. Anatomy of the Lambda Expression. URL: https://www.tutorialsteacher.com/linq/linq-lambda-expression
+
+Microsoft. 2015a. Anonymous functions (C# Programming Guide): The Evolution of Delegates in C#. URL: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/statements-expressions-operators/anonymous-functions
+
+Microsoft. 2015b. Delegates (C# Programming Guide). URL: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates/
+
+Microsoft. 2019a. Lambda expressions (C# reference). URL: https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions. 
+
+Microsoft. 2019b. => operator (C# reference). URL: https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-operator
 
 License
 -------
