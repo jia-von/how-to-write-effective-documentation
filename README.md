@@ -1,42 +1,47 @@
-Lambda Expression Assignment(C# reference)
-========
-This repository will introduce the user to the concept of Lambda Expression using Anonymous function expressions in C# (Microsoft, 2019a).
+# Lambda Expression Assignment(C# reference)
+
+The goal of this assignment is to learn how to create an tutorial for user to learn a new concept. In this assignment I decided to work on Lambda Expression. This repository will introduce the user to the concept of Lambda Expression using Anonymous function expressions in C# (Microsoft, 2019a).
 Additionally, the various segments of the expression will be covered in this assignment. 
 
-Tutorial
+## Tutorial
+
+Tutorial for this assignment is available [here](/Images/Tutorial.pdf).
+
+## Installation
 --------
-Tutorial for this assignment is accessible through this link: https://docs.google.com/document/d/1BJUNUUknTwbl_AMzMKOBwxq42kDVfilccd-zPyzevkU/edit?usp=sharing
 
-Instructions
---------
-How to use this repository:
+````bash
+$ git clone https://github.com/jia-von/how-to-write-effective-documentation.git
+$ cd how-to-write-effective-documentation-jia-von
+$ cd Lambda_Assignment
+$ start devenev Lambda_Assignment.sln
+````
 
-    git clone https://github.com/TECHCareers-by-Manpower/how-to-write-effective-documentation-jia-von.git
+With file explorer:
 
-Within file explorer:
+Open folder Lambda_Assignment
 
-1. Open folder Lambda_Assignment
-
-![Step 1: ](https://github.com/TECHCareers-by-Manpower/how-to-write-effective-documentation-jia-von/blob/master/Images/Step1.PNG)
+![Step 1: ](/Images/Step1.PNG)
 
 2. Open project Lambda_Assignment.sln in Visual Studio 2019.
 
-![Step 2: ](https://github.com/TECHCareers-by-Manpower/how-to-write-effective-documentation-jia-von/blob/master/Images/Step2.PNG)
+![Step 2: ](/Images/Step2.PNG)
 
 3. Open Lambda_Assignment.sln within Visual Studio 2019.
 
-Contribute
-----------
+## Usage
+
+Within `Program.cs` the user can learn how to create their own delegate to use it with Lambda Expression `=>`.
+
+## Contribute
 
 To contribute, kindly email jiavon@ualberta.ca for further information. 
 
-Support
--------
+## Support
 
 If you are having issues, please email at jiavon@ualberta.ca
 
-References
--------
+## References
 
 TutorialsTeacher. 2020a. C# - Anonymous Method. URL: https://www.tutorialsteacher.com/csharp/csharp-anonymous-method
 
@@ -50,7 +55,6 @@ Microsoft. 2019a. Lambda expressions (C# reference). URL: https://docs.microsoft
 
 Microsoft. 2019b. => operator (C# reference). URL: https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-operator
 
-License
--------
+## License
 
 This repository is licensed under Creative Commons Zero v1.0 Universal. 
