@@ -1,4 +1,4 @@
-# Lambda Expression Assignment(C# reference)
+# Lambda Expression Assignment (C# reference)
 
 The goal of this assignment is to learn how to create an tutorial for user to learn a new concept. In this assignment I decided to work on Lambda Expression. This repository will introduce the user to the concept of Lambda Expression using Anonymous function expressions in C# (Microsoft, 2019a).
 Additionally, the various segments of the expression will be covered in this assignment. 
@@ -8,7 +8,6 @@ Additionally, the various segments of the expression will be covered in this ass
 Tutorial for this assignment is available [here](/Images/Tutorial.pdf).
 
 ## Installation
---------
 
 ````bash
 $ git clone https://github.com/jia-von/how-to-write-effective-documentation.git
